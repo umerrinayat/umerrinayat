@@ -1,6 +1,5 @@
 ### Hi there, I'm Umer - aka [umerrinayat.com][website] 👋
 
-## I'm a Senior Full Stack Developer!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
